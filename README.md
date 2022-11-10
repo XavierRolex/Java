@@ -6,7 +6,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=xavierrolex-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
  - 👨🏻‍💻 **Love to solve new problems.** 
-- ⚡ **Hungry Learner**
+- ⚡ **Hungry Learner🙇🏻‍♂️**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/_xavierrolex_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
