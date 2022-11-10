@@ -24,7 +24,7 @@ public class Tester {
 
                 if (choice.equals("yes")||choice.equals("Yes")||choice.equals("YES"))
                {
-                fulltime();           
+                fulltime(); //calling the fulltime method.          
                }
                else 
                {
@@ -90,3 +90,4 @@ public class Tester {
     
     
 }
+
