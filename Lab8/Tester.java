@@ -44,12 +44,13 @@ public class Tester {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter your name: ");
             p1.setName(input.nextLine());
+            System.out.print("Enter your Department: ");
+            p1.setDepartment(input.nextLine());
             System.out.print("Enter your address: ");
             p1.setAddress(input.nextLine());
             System.out.print("Enter your age: ");
             p1.setAge(input.nextInt());
-            System.out.print("Enter your Department: ");
-            p1.setDepartment(input.nextLine());
+            input.nextLine();
             System.out.print("Enter your Designation: ");
             p1.setDesignation(input.nextLine());
             System.out.println("");
@@ -72,6 +73,7 @@ public class Tester {
             f1.setAddress(input.nextLine());
             System.out.print("Enter your age: ");
             f1.setAge(input.nextInt());
+            input.nextLine();
             System.out.print("Enter your Department: ");
             f1.setDepartment(input.nextLine());
             System.out.print("Enter your Designation: ");
