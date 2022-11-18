@@ -25,5 +25,4 @@ public class EmployeeSuper extends personSuper {
     public String toString() {
         return super.toString()+"\nDepartment: "+getDepartment()+"\nDesignation: "+getDesignation();
     }
-
 }
